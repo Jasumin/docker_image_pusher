@@ -10,3 +10,4 @@ dreamacro/clash
 haishanh/yacd
 ghcr.io/home-assistant/home-assistant
 johngong/qbittorrent
+jlesage/mkvtoolnix
