@@ -11,3 +11,4 @@ haishanh/yacd
 ghcr.io/home-assistant/home-assistant
 johngong/qbittorrent
 jlesage/mkvtoolnix
+dhi.io/python:3.11-debian12
