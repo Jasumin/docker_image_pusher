@@ -12,3 +12,4 @@ ghcr.io/home-assistant/home-assistant
 johngong/qbittorrent
 jlesage/mkvtoolnix
 python:3.11-slim
+actualbudget/actual-server:latest-alpine
