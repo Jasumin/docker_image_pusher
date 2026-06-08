@@ -13,3 +13,4 @@ johngong/qbittorrent
 jlesage/mkvtoolnix
 python:3.11-slim
 actualbudget/actual-server:latest-alpine
+jc21/nginx-proxy-manager
